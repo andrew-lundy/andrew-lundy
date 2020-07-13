@@ -8,6 +8,18 @@ I started programming when I was 13 and never looked back. I simply fell in love
 ✅ [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b)
 
 
+### Rusty Nail Software Portfilio & Services 
+Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
+
+
+![Rusty Nail Software, LLC Logo](https://static1.squarespace.com/static/5dcb0ef151622a11ac0892a7/5ef1bf21d15ac858b6a5552f/5f0cc4ba6720a9003b731f43/1594672315966/RNS_FULL_BLKCLR.png?format=40w)
+
+Service | Tech Used
+------------ | -------------
+iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics and CocaPods.
+Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
+Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
+
 #### My Blog
 Post Name | Date Written
 ------------ | -------------
@@ -19,17 +31,7 @@ Post Name | Date Written
 [Read more on the Rusty Nail Software website](https://rustynailsoftware.com/dev-blog)
 
 
-![Rusty Nail Software, LLC Logo](https://static1.squarespace.com/static/5dcb0ef151622a11ac0892a7/5ef1bf21d15ac858b6a5552f/5f0cc4ba6720a9003b731f43/1594672315966/RNS_FULL_BLKCLR.png?format=40w)
-### Portfilio & Services 
-Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
 
-
-
-Service | Tech Used
------------- | -------------
-iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics and CocaPods.
-Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
-Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
