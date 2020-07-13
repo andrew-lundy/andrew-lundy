@@ -22,7 +22,7 @@ Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design 
 
 
 Dev/Contract Work | My Software | Blog
------------- | -------------
+------------ | ------------- | -------------
 Software Support Engineer - Microsoft (March 2020 - Present) | [RoadHazard - iOS](https://wombat-giraffe-mye7.squarespace.com/roadhazard) | [Going From Corporate to Independent](https://rustynailsoftware.com/dev-blog/going-from-corporate-to-independent) - 7.6.20
 [Tru Coff](https://rustynailsoftware.com/wordpress-ecommerce) - WordPress E-Commerce Website Mockup | | [Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients) - 6.27.20
 [Airtable](https://rustynailsoftware.com/work/airtable-clone) - Squarespace Website Clone | | [Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z) - 6.25.20
