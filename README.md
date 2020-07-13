@@ -21,7 +21,7 @@ Post Name | Date Written
 
 ### Rusty Nail Software Portfilio & Services
 Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
-![Rusty Nail Software, LLC Logo](https://static1.squarespace.com/static/5dcb0ef151622a11ac0892a7/t/5eee25384b64ad5a6579c574/1594165356814/?format=10w)
+![Rusty Nail Software, LLC Logo](https://static1.squarespace.com/static/5dcb0ef151622a11ac0892a7/5ef1bf21d15ac858b6a5552f/5f0cc4ba6720a9003b731f43/1594672315966/RNS_FULL_BLKCLR.png?format=10w)
 
 
 Service | Tech Used
