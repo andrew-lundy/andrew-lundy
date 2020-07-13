@@ -9,7 +9,12 @@ Post Name | Date Written
 [Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients) | 6.27.20
 [Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z) | 6.25.20
 [Setting Up An AWS Static Site](https://rustynailsoftware.com/dev-blog/setting-up-an-aws-static-site) | 6.20.20
+[Read more on the Rusty Nail Software website](https://rustynailsoftware.com/dev-blog)
 
+
+
+
+### Rusty Nail Software Portfilio & Services
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
