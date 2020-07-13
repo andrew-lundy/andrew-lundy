@@ -21,7 +21,7 @@ Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress
 Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
 
 
-Dev/Contract Work | My Software | Blog
+Dev/Contract Work | Blog | My Software
 ------------ | ------------- | -------------
 Software Support Engineer - Microsoft (March 2020 - Present) | [Going From Corporate to Independent](https://rustynailsoftware.com/dev-blog/going-from-corporate-to-independent) - 7.6.20 | [RoadHazard - iOS](https://rustynailsoftware.com/roadhazard)
 [Tru Coff](https://rustynailsoftware.com/wordpress-ecommerce) - WordPress E-Commerce Website Mockup | [Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients) - 6.27.20 |
