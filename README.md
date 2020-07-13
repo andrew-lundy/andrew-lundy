@@ -29,6 +29,7 @@ Service | Tech Used
 ------------ | -------------
 iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics and CocaPods.
 Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
+Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
