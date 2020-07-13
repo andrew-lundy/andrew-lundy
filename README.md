@@ -10,7 +10,7 @@ I started programming when I was 13 and never looked back. I simply fell in love
 
 ![Rusty Nail Software, LLC Logo](https://static1.squarespace.com/static/5dcb0ef151622a11ac0892a7/5ef1bf21d15ac858b6a5552f/5f0cc4ba6720a9003b731f43/1594672315966/RNS_FULL_BLKCLR.png?format=40w)
 
-### Rusty Nail Software Portfilio & Services 
+### Portfilio & Services 
 Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
 
 
