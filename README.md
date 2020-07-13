@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hello, my name is Andrew. 👋
+
+
+My Blog |
+------------
+* [Going From Corporate to Independent](https://rustynailsoftware.com/dev-blog/going-from-corporate-to-independent)
+* [Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients)
+* [Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z)
+* [Setting Up An AWS Static Site](https://rustynailsoftware.com/dev-blog/setting-up-an-aws-static-site)
+
+
+
+
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
