@@ -1,12 +1,6 @@
 ### Hello, my name is Andrew. 👋
 
 
-My Blog |
-------------
-* 
-* 
-* 
-
 #### My Blog
 Post Name | Date Written
 ------------ | -------------
