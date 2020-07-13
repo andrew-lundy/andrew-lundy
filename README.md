@@ -27,8 +27,8 @@ Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, S
 
 Service | Tech Used
 ------------ | -------------
-iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics, CocaPods
-Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress, Squarespace
+iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics and CocaPods.
+Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
