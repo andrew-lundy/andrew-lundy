@@ -16,7 +16,7 @@ Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, S
 
 Service | Tech Used
 ------------ | -------------
-iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics and CocaPods.
+iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics, Core Animation and CocaPods.
 Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
 Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
 
