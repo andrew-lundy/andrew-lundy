@@ -22,7 +22,7 @@ Post Name | Date Written
 
 
 ### Rusty Nail Software Portfilio & Services
-Skilled in HTML, CSS, JavaScript, WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting).
+Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting).
 
 
 Service | Tech Used
