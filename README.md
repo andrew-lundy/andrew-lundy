@@ -15,6 +15,13 @@ Post Name | Date Written
 
 
 ### Rusty Nail Software Portfilio & Services
+Skilled in HTML, CSS, JavaScript, WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting).
+
+
+Service | Tech Used
+------------ | -------------
+iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Location, MapKit, SpriteKit, Core Graphics, CocaPods
+Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress, Squarespace
 
 <!--
 **andrew-lundy/andrew-lundy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
