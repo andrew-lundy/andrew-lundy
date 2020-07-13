@@ -20,13 +20,20 @@ iOS Development | Swift, Xcode, Cocoa Touch, UIKit, Core Foundation, Core Locati
 Web Design & Development | HTML, CSS, JavaScript (Vanilla), Bootstrap, WordPress and Squarespace.
 Other Tools Used in Development | Google Firebase, GitHub, GIT, OOP, MVC Design Pattern and the command line.
 
-#### My Blog
-Post Name | Date Written
+
+Dev/Contract Work | My Software | Blog
 ------------ | -------------
-[Going From Corporate to Independent](https://rustynailsoftware.com/dev-blog/going-from-corporate-to-independent) | 7.6.20
-[Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients) | 6.27.20
-[Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z) | 6.25.20
-[Setting Up An AWS Static Site](https://rustynailsoftware.com/dev-blog/setting-up-an-aws-static-site) | 6.20.20
+Software Support Engineer - Microsoft (March 2020 - Present) | [RoadHazard - iOS](https://wombat-giraffe-mye7.squarespace.com/roadhazard) | [Going From Corporate to Independent](https://rustynailsoftware.com/dev-blog/going-from-corporate-to-independent) - 7.6.20
+[Tru Coff](https://rustynailsoftware.com/wordpress-ecommerce) - WordPress E-Commerce Website Mockup | | [Tips for Initial Meetings with Clients](https://rustynailsoftware.com/dev-blog/tips-for-initial-meetings-with-clients) - 6.27.20
+[Airtable](https://rustynailsoftware.com/work/airtable-clone) - Squarespace Website Clone | | [Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z) - 6.25.20
+[Rusty Nail Software](https://rustynailsoftware.com) - Squarespace Website | | [Setting Up An AWS Static Site](https://rustynailsoftware.com/dev-blog/setting-up-an-aws-static-site) - 6.20.20
+[Landry Law Office](https://rustynailsoftware.com/landry-law-office) - Custom Website | |
+[J&S Auto Pros](https://rustynailsoftware.com/js-auto-pros) - WordPress Website | |
+[Slater Plumbing](https://rustynailsoftware.com/slater-plumbing) - Custom Website | |
+[Brio Music Studio](https://wombat-giraffe-mye7.squarespace.com/brio-music-studio) - WordPress Website | |
+
+
+
 
 [Read more on the Rusty Nail Software website](https://rustynailsoftware.com/dev-blog)
 
