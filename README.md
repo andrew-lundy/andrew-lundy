@@ -8,7 +8,10 @@ My Blog |
 * [Setting Up a WordPress Site Using AWS](https://rustynailsoftware.com/dev-blog/hn9opdswphvk7rntlkqs2f7v97yo9z)
 * [Setting Up An AWS Static Site](https://rustynailsoftware.com/dev-blog/setting-up-an-aws-static-site)
 
-
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 
 
