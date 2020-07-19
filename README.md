@@ -10,7 +10,7 @@ I started programming when I was 13 and never looked back. I simply fell in love
 
 
 ### Portfilio & Services 
-Skilled in HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Swift, Xcode, Native iOS Development and Frameworks, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
+Skilled in Swift, Xcode, Native iOS Development and Frameworks, HTML, CSS, JavaScript (Vanilla), WordPress, Squarespace, Bootstrap, Web Design, Photoshop, and Content Writing (SEO & Copywriting). <br>
 
 
 Service | Tech Used
