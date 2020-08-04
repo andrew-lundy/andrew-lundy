@@ -3,9 +3,9 @@
 I started programming when I was 13 and never looked back. I simply fell in love with the process of building things and helping people by using code. In 2020, I started Rusty Nail Software with the commitment of providing efficient development services and building innovative software solutions. This company also serves my long-term mission of providing resources for bee repopulation and stabilization. [You can read more about this on rustynailsoftware.com.](https://rustynailsoftware.com/andrew-lundy/#a-bit-more)
 
 #### Connect with me on the web:
-🐦 - [Twitter](https://twitter.com/andrewlundydev/) <br>
-💼 - [LinkedIn](https://www.linkedin.com/in/andrewlundydev/) <br>
-✅ - [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b)
+🐦  [Twitter](https://twitter.com/andrewlundydev/) <br>
+💼  [LinkedIn](https://www.linkedin.com/in/andrewlundydev/) <br>
+✅  [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b)
 <hr>
 
 
