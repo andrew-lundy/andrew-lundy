@@ -18,7 +18,7 @@ I primarily work with iOS and utilize the following tools in development:
 
 My Products/Solutions:
 - [RoadHazard](https://apps.apple.com/us/app/roadhazard/id1481914964)<br>
-RoadHazard is a pothole reporting system for iOS that aims to expedite the process of pothole report and repair time. To create this system, I used Swift, Core Location, MapKit and Google Firebase. 
+RoadHazard is a pothole reporting system for iOS that aims to expedite the process of pothole report and repair time. To create this system I used Swift, Core Location, MapKit and Google Firebase. RoadHazard is still undergoing development.
 
 
 
