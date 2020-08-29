@@ -5,7 +5,7 @@ I started programming when I was 13 and never looked back. I simply fell in love
 #### Connect with me on the web:
 🐦  [Twitter](https://twitter.com/andrewlundydev/) <br>
 💼  [LinkedIn](https://www.linkedin.com/in/andrewlundydev/) <br>
-✅  [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b)
+✅  [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b) <br>
 🕸  [Rusty Nail Software](https://rustynailsoftware.com)
 <hr>
 
