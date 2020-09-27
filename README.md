@@ -1,6 +1,6 @@
 ### Hello, my name is Andrew. 👋
 
-I love building systems and helping people by using code. 
+I love building systems and helping people through software. 
 
 As a freelance engineer, I help companies build innovative software solutions for iOS. Here are some tools I utilize in development:
 - Swift
