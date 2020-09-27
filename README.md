@@ -5,16 +5,16 @@ I love building systems and helping people through software.
 As a freelance engineer, I help companies build innovative software solutions for iOS. Here are some tools I utilize in development:
 - Swift
 - Xcode
-- Cocoa Touch
 - UIKit
 - Core Graphics
 - Core Location
 - MapKit
 - Google Firebase
 - AWS Amplify
-- SQL & MySQL
+- MySQL
 - JSON
 - MVC
+- UI/UX Design
 
 My Products/Solutions:
 - [RoadHazard](https://apps.apple.com/us/app/roadhazard/id1481914964)<br>
