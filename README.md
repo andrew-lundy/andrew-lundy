@@ -1,6 +1,6 @@
 ### Hello, my name is Andrew. 👋
 
-I started programming when I was 13 and never looked back. I fell in love with the process of building systems and helping people by using code. In 2020, I started Rusty Nail Software with the mission of providing resources for bee repopulation via software development services and products. [You can read more about this on rustynailsoftware.com.](https://rustynailsoftware.com/andrew-lundy/#a-bit-more) 
+I love building systems and helping people by using code. 
 
 As a freelance engineer, I help companies build innovative software solutions for iOS. Here are some tools I utilize in development:
 - Swift
