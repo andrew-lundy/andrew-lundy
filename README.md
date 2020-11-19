@@ -1,6 +1,6 @@
 ### Hello, my name is Andrew. 👋
 
-I am a software engineer with the mission of building a sustainable future for bees and humans by integrating software and apiculture. I love building systems and helping people through software. 
+I am a software engineer with the mission of building a sustainable future for bees and humans by integrating software and apiculture.
 
 Currently running Rusty Nail Software; freelancing as an iOS Developer; building my own products. 
 
