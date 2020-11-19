@@ -1,24 +1,8 @@
 ### Hello, my name is Andrew. 👋
 
-I love building systems and helping people through software. 
+I am a software engineer with the mission of building a sustainable future for bees and humans by integrating software and apiculture. I love building systems and helping people through software. 
 
-As a freelance engineer, I help companies build innovative software solutions for iOS. Here are some tools I utilize in development:
-- Swift
-- Xcode
-- UIKit
-- Core Graphics
-- Core Location
-- MapKit
-- Google Firebase
-- AWS Amplify
-- MySQL
-- JSON
-- MVC
-- UI/UX Design
-
-My Products/Solutions:
-- [RoadHazard](https://apps.apple.com/us/app/roadhazard/id1481914964)<br>
-RoadHazard is a pothole reporting system for iOS that aims to expedite the process of pothole report and repair time. To create this system I used Swift, Core Location, MapKit and Google Firebase. RoadHazard is still undergoing development.
+Currently running Rusty Nail Software; freelancing as an iOS Developer; building my own products. 
 
 
 
