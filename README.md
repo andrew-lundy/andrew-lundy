@@ -7,8 +7,8 @@ Currently running Rusty Nail Software; freelancing as an iOS Developer; building
 
 
 #### Connect with me on the web:
-🐦  [Twitter](https://twitter.com/andrewlundydev/) <br>
-💼  [LinkedIn](https://www.linkedin.com/in/andrewlundydev/) <br>
+🐦  [Twitter](https://twitter.com/theandrewlundy/) <br>
+💼  [LinkedIn](https://www.linkedin.com/in/theandrewlundy/) <br>
 ✅  [UpWork](https://www.upwork.com/freelancers/~0199be2378363dff7b) <br>
 🕸  [Rusty Nail Software](https://rustynailsoftware.com)
 <hr>
