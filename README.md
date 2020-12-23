@@ -2,7 +2,7 @@
 
 I am a software engineer with the mission of building a sustainable future for bees and humans by integrating software and apiculture.
 
-Currently running Rusty Nail Software; freelancing as an iOS Developer; building my own products. 
+Currently running Rusty Nail Software; contracting as an iOS Developer; building RoadHazard. 
 
 
 
